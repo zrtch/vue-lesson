@@ -1,0 +1,10 @@
+{
+  "code": "1",
+  "list": [{
+    "name": "li lei",
+    "addr": "北京朝阳"
+  }, {
+    "name": "hanmeimei",
+    "addr": "江西上饶"
+  }]
+}
